@@ -1,4 +1,4 @@
-### Predicting Produce Ripeness for Determining Expiry Time
+### Predicting Fruit Ripeness for Determining Expiry Time
 
 ## Introduction 
 This repository contains a predictive model designed to determine the ripeness of fruits and vegetables, aiding in the estimation of their expiration time. The model uses machine learning techniques to predict the maturity of produce based on various features.
