@@ -14,7 +14,7 @@ Despite Indonesia's abundant natural resources, achieving food sovereignty poses
 2. Contribute to Food Sovereignty: Through the application, aim to reduce dependency on imports, minimize food waste, and empower local communities to achieve greater food sovereignty.
 
 ## Project Focus
-The project centers on developing a ripeness prediction system to determine the expiration time of fruits and vegetables. This system serves as part of the solution to reduce food wastage, enhance distribution efficiency, and support food self-reliance in striving towards greater food sovereignty.
+The project centers on developing a ripeness prediction system to determine the expiration time of fruits and vegetables. This system serves as part of the solution to reduce food wastage and support food self-reliance in striving towards greater food sovereignty.
 
 ## Dataset 
 
